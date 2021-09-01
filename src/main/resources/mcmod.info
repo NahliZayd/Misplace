@@ -1,0 +1,16 @@
+[
+{
+  "modid": "erasechatmod",
+  "name": "EraseChatMod",
+  "description": "Clears your chat",
+  "version": "",
+  "mcversion": "1.8.9",
+  "url": "https://youtube.com/thebloodhound",
+  "updateUrl": "",
+  "authorList": ["The_BloodHound"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
