@@ -12,3 +12,5 @@ ex :
 /erasechat yeahright 3.0 will disable the mod
 
 /erasechat clear will destroy the client
+
+/!\ THAT PROBABLY NOT RECORD PROOF , I DONT CHECK IF THE OPPS CAN BE TP IN A BLOCK ETC ETC ,SO FEEL FREE TO IMPROVE THIS OR IDK /!\
